@@ -1,7 +1,7 @@
 {
-  "name": "react-new-window",
+  "name": "@trybeapp/react-new-window",
   "description": "Pop a new window in React, using window.open API",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "react",
     "window",
@@ -11,7 +11,10 @@
   "main": "lib/react-new-window.js",
   "module": "es/react-new-window.js",
   "browser": "umd/react-new-window.js",
-  "repository": "git@github.com:rmariuzzo/react-new-window.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trybeapp/react-new-window.git"
+  },
   "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",
   "license": "MIT",
   "files": [
